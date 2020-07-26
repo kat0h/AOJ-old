@@ -1,0 +1,6 @@
+//ITP1_3_A:   Print Many Hello World
+#include <stdio.h>
+int main(){
+    int i;
+    for (i=0; i<1000; i++) printf("Hello World\n");
+}
